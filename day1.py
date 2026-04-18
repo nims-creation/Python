@@ -18,3 +18,4 @@
 num1 = 55
 num2 = 45
 
+print("update my today strik")
